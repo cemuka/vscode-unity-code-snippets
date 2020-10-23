@@ -734,6 +734,7 @@
 		"description": "OnTriggerExit is called when the Collider other has stopped touching the trigger.",
 		"body": [
 			"private void OnTriggerExit(Collider other)",
+			"{",
 			"\t$0",
 			"}"
 		]
