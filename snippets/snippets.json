@@ -44,7 +44,7 @@
 		"body": [
 			"using UnityEngine;",
 			"",
-			"[CreateAssetMenu(fileName = \"${1:${TM_FILENAME_BASE}}\", menuName = \"\"]",
+			"[CreateAssetMenu(fileName = \"${1:${TM_FILENAME_BASE}}\", menuName = \"\")]",
 			"public class ${TM_FILENAME_BASE} : ScriptableObject",
 			"{",
 			"\t$0",
